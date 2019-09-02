@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityDemoKotlin</string>
+    <string name="title_activity_secret">Secret</string>
+</resources>
